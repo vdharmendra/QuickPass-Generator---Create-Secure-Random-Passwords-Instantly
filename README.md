@@ -43,3 +43,18 @@ quickpass-generator/
 - We recommend using passwords with at least:
 - 12 characters for general use
 - 16+ characters for sensitive accounts
+
+<span>👉 Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
+<img src="./Dynamic Snow Cursor.gif" width="575px"/>
+</a>
+
+<span>👉 Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
+<img src="./Dynamic-Snow-Cursor.png" width="275px"/>
+</a>
+
+<span>👉 Cover Design</span><br/>
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
+<img src="./cover.png" width="375px"/>
+</a>
